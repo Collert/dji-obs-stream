@@ -2,7 +2,7 @@
 
 This Docker image packages NGINX for RTMP streaming from a DJI drone (or any RTMP-capable device) so you can easily set up a streaming endpoint without manually configuring NGINX.
 
-You **don’t need to build this image yourself** unless you want to make modifications. Prebuilt images are available on [Docker Hub](https://hub.docker.com/r/prochac/dji-obs-stream/tags) for both:
+Prebuilt images are available on [Docker Hub](https://hub.docker.com/r/prochac/dji-obs-stream/tags) for both:
 
 - `amd64` (most desktop/server machines)
 - `arm64` (Raspberry Pi, Apple Silicon Macs, etc.)
